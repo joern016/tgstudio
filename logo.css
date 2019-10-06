@@ -1,0 +1,44 @@
+/*
+ * TG STUDIO Logo
+ */
+
+
+.strich{
+	background-color: #f00;
+	height: 3px;
+	margin: 15px;
+}
+
+.logo-box{
+	/*margin: 30px;
+	padding: 15px;
+	width: 30em;
+	height: 25em;*/
+	border: solid 1px #fff;
+	background: #222;
+	color: #fff;
+	text-align: center;
+}
+
+.tg{
+	font-size: 12em;
+	font-weight: bold;
+    line-height: 80%;
+}
+.studio-text{
+	font-size: 4em;
+}
+.kraftraum{
+	font-size: 1.5em;
+	font-weight: 200;
+	letter-spacing: .5em;
+}
+
+.spiegelsaal{
+	font-size: 1.5em;
+	font-weight: 50;
+	letter-spacing: .4em;
+	color: #fff;
+	background-color: #f00;
+	margin: 15px;
+}
