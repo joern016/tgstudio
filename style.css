@@ -1,0 +1,14 @@
+/*
+ * TG STUDIO Styles
+ */
+.main-row{
+	background-color: #ccc;
+}
+.main-col{
+	background-color: #222;
+	
+}
+html,body{
+	background-color: #0f0;
+	height:100%	
+}
