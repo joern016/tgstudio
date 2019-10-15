@@ -17,3 +17,10 @@ html,body{
   color: #fff; 
   padding: 0 10px 2px 2px;
 }
+
+/* prevent reflow 
+https://css-tricks.com/preventing-content-reflow-from-lazy-loaded-images/*/
+img {
+  max-width: 100%;
+  height: auto;
+}
